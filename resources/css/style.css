@@ -10,9 +10,15 @@ body {
   background-size: cover;
 }
 
+a {
+  color: white;
+  line-height: 1.5;
+}
+
 header {
   color: white;
 }
+
 h1 {
   font-size: 70px;
   font-weight: bold;
