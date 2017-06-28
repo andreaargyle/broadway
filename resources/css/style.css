@@ -58,6 +58,6 @@ footer p {
   font-size: 11px;
 }
 
-footer li {
-  display: inline-block;
+.footer-nav {
+  font-size: 18px;
 }
