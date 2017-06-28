@@ -46,3 +46,18 @@ p  {
 .hero h4 {
   color: white;
 }
+
+/* Footer */
+footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+footer p {
+  font-size: 11px;
+}
+
+footer li {
+  display: inline-block;
+}
