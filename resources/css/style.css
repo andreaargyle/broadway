@@ -1,10 +1,12 @@
 /* Body */
+
 body {
     text-align: center;
     font-family: Helvetica;
 }
 
 /* Header */
+
 .hero {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
@@ -27,6 +29,7 @@ ul {
 }
 
 /* Main */
+
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -42,6 +45,7 @@ p  {
 }
 
 /* Footer */
+
 footer {
   background-color: dimgray;
   color: white;
