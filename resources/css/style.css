@@ -8,14 +8,11 @@ body {
 .hero {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
+  color: white;
 }
 
 a {
-  color: white;
-  line-height: 1.5;
-}
-
-header {
+  line-height: 2;
   color: white;
 }
 
@@ -41,10 +38,6 @@ h4 {
 
 p  {
   font-size: 14px;
-}
-
-.hero h4 {
-  color: white;
 }
 
 /* Footer */
